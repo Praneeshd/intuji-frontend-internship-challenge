@@ -162,8 +162,9 @@ body {
 }
 
 .trusted-companies {
+    margin-top: 5%;
     padding: 30px 0;
-    background-color: white;
+    background-color: #F5F6F8;
     text-align: center;
 }
 
